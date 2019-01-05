@@ -15,6 +15,7 @@
 !*.md
 !*.jpg
 !*.png
+!*.py
 
 
 # MAC HIDDEN FILES
